@@ -159,7 +159,6 @@ const paint = (e) => {
     }
   }
 };
-
 const clear = () => {
   svg.innerHTML = "";
   svg.innerHTML = `<g clip-path="url(#clip0_1_4554)">
